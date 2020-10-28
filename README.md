@@ -8,7 +8,7 @@
 - QueryDSL의 사용법
 
 # 시행착오
-- QueryDSL을 Gradle에서 가져오는 데 어려움을 겪었다. <a href="https://n1tjrgns.tistory.com/275>이 링크</a>를 사용하여 해결.
+- QueryDSL을 Gradle에서 가져오는 데 어려움을 겪었다. <a href="https://n1tjrgns.tistory.com/275">이 링크</a>를 사용하여 해결.
 - (미해결) frontend-maven-plugin은 maven 전용이라 gradle에서는 사용이 힘들다. <a href="https://github.com/siouan/frontend-gradle-plugin">frontend-gradle-plugin</a>이라는 대체제가 있지만, 동일한 방법으로 어떻게 사용하는지 아직 모르겠다.
 - (미해결) 테스트에서 MySQL을 적용하면 에러가 발생한다. 윈도우 환경에서 해서 그런것인지, 관련 자료를 찾는데 조금 어려움이 있음.
 
